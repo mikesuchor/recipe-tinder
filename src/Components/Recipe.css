@@ -1,0 +1,33 @@
+.recipe {
+    width: 30%;
+    margin: 3vh 0;
+    background: white;
+    text-align: center;
+    font-family: "Righteous";
+    border: 1px solid black;
+}
+
+.recipe_image {
+    width: 100%;
+    height: 30vh;
+    border-bottom: 1px solid black;
+}
+
+.recipe_title {
+    font-size: 3vh;
+    text-transform: uppercase;
+    margin-bottom: 3vh;
+}
+
+.recipe_button {
+    background: #F2D57E;
+    padding: 0.75vh;
+    border: 2px solid #F2D57E;
+    margin-bottom: 3vh;
+    outline: none;
+}
+
+.recipe_button:hover {
+    background: #F2CD13;
+    border-color: #F2CD13;
+}

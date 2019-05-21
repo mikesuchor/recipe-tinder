@@ -1,0 +1,25 @@
+.search {
+    text-align: center;
+}
+
+.search_input {
+    background: #FFF;
+    border: 1px solid #FFF;
+    padding: 0.75vh;
+    font-size: 2vh;
+    text-transform: uppercase;
+}
+
+.search_button {
+    background: #F2D57E;
+    padding: 0.75vh;
+    border: 2px solid #F2D57E;
+    margin-left: 1vw;
+    outline: none;
+    font-size: 2vh;
+}
+
+.search_button:hover {
+    background: #F2CD13;
+    border-color: #F2CD13;
+}
