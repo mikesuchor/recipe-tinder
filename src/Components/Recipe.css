@@ -8,14 +8,13 @@
 
 .recipe_image {
     width: 100%;
-    height: 30vh;
+    height: 20vw;
     border-bottom: 1px solid black;
 }
 
 .recipe_title {
-    font-size: 3vh;
+    font-size: 2vw;
     text-transform: uppercase;
-    margin-bottom: 3vh;
 }
 
 .recipe_button {
@@ -25,6 +24,7 @@
     margin-bottom: 3vh;
     outline: none;
     color: black;
+    font-size: 1vw;
 }
 
 .recipe_button a {
