@@ -3,7 +3,6 @@
     margin: 3vh 0;
     background: white;
     text-align: center;
-    font-family: "Righteous";
     border: 1px solid black;
 }
 
@@ -25,6 +24,12 @@
     border: 2px solid #F2D57E;
     margin-bottom: 3vh;
     outline: none;
+    color: black;
+}
+
+.recipe_button a {
+    color: black;
+    text-transform: uppercase;
 }
 
 .recipe_button:hover {
